@@ -10,7 +10,7 @@ git add .
 git commit -m "Initial commit"
 
 ## 4. リモートリポジトリのURLを追加（URLは実際のものに置き換えてください）
-git remote add origin <your-repository-url>
+git remote add origin your-repository-url
 
 ## 5. ローカルのmainブランチをリモートにプッシュ
 git push -u origin main
